@@ -204,7 +204,7 @@ Each customer:
 
 Due to GitHub file size limitations, the `.pbix` file is hosted externally:
 
-👉 [Download Power BI Dashboard](https://drive.google.com/file/d/1PeiZLO3VxhIxDOPZ2QpQRZm-OKtO4WRV/view?usp=drive_link)
+👉 [Download Power BI Dashboard](https://app.powerbi.com/links/V1W3aOMq0z?ctid=c00f2735-2bde-49be-9ecf-45797a22c02d&pbi_source=linkShare)
 
 ## 👩‍💼 About the Project
 This project is built using domain knowledge from working as a **Branch Post Master**, combining real-world operations with analytics to derive insights.
