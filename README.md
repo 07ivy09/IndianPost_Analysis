@@ -200,15 +200,6 @@ Each customer:
 
 ---
 
-## 📁 How to Use
-
-1. Load SQL dataset  
-2. Open `.pbix` file  
-3. Refresh data  
-4. Explore dashboards  
-
----
-
 ## 👩‍💼 About the Project
 This project is built using domain knowledge from working as a **Branch Post Master**, combining real-world operations with analytics to derive insights.
 
