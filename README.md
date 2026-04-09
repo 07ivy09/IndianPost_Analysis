@@ -1,12 +1,12 @@
-# 📊 India Post Operations Analytics (Financial + Postal)
+# India Post Operations Analytics (Financial + Postal)
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes **India Post operations**, combining both **financial services and postal services**, with a primary focus on financial transaction analytics and customer behavior.
 
 Built from the perspective of a **Branch Post Master**, the solution simulates real-world customer behavior, account lifecycle, and transaction patterns across multiple services.
 
 ---
-## 🎯 Objective
+##  Objective
 To design an end-to-end analytics solution that:
 
 - Tracks transactions across branches and cities  
@@ -16,7 +16,7 @@ To design an end-to-end analytics solution that:
 
 ---
 
-## 🏤 Services Covered
+##  Services Covered
 
 ### 🔹 Financial Services (Primary Focus)
 - Recurring Deposit (RD)  
@@ -34,7 +34,7 @@ To design an end-to-end analytics solution that:
 > While both domains are included, analytical focus is primarily on **financial transactions and customer behavior**.
 
 ---
-## 🧠 Business Context
+##  Business Context
 India Post operates through a hierarchical structure:
 
 - Branch → Sub Office → Head Office → City  
@@ -46,7 +46,7 @@ Each customer:
 
 ---
 
-## 🏗️ Data Architecture
+##  Data Architecture
 
 ### 🔹 Branch Hierarchy
 - Branch Name  
@@ -72,7 +72,8 @@ Each customer:
 - Maturity Date (calculated using tenure)  
 - Account Close Date  
 - Service Type
-📌 One customer → multiple accounts
+
+📌One customer → multiple accounts
 
 ---
 
@@ -129,7 +130,7 @@ Each customer:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ### 📍 1. Performance Overview
 - Total Amount: ₹1.88B  
@@ -140,7 +141,7 @@ Each customer:
 
 ---
 
-### 👥 2. Customer & Transaction Insights
+###  2. Customer & Transaction Insights
 - Customer Lifetime Value (CLV): ₹36.73K  
 - Transactions per Customer: 23.04  
 - Repeat Customers: 62.97%  
@@ -148,7 +149,7 @@ Each customer:
 
 ---
 
-### 🔍 3. Key Drivers Analysis
+###  3. Key Drivers Analysis
 - Decomposition Tree:
   - City → Service Type → Sub Office  
 - Key Influencers Visual  
@@ -156,13 +157,13 @@ Each customer:
 
 ---
 
-### 🏢 4. Branch Performance
+###  4. Branch Performance
 - Head Office vs Service Type comparison  
 - Identifies top-performing regions  
 
 ---
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 
 - SQL → Data generation & transformation  
 - Excel → Initial structuring  
@@ -172,7 +173,7 @@ Each customer:
 
 ---
 
-## 💡 Key Learnings
+##  Key Learnings
 
 - Designing a real-world **star schema**  
 - Handling complex relationships  
@@ -182,7 +183,7 @@ Each customer:
 
 ---
 
-## 🚀 Key Highlights
+##  Key Highlights
 
 - Real-world domain simulation (India Post operations)  
 - Advanced transaction modeling (dynamic dataset)  
@@ -191,7 +192,7 @@ Each customer:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Customer segmentation (RFM analysis)  
 - Forecasting trends  
@@ -200,13 +201,13 @@ Each customer:
 
 ---
 
-## 📂 Download Power BI File
+##  Download Power BI File
 
 Due to GitHub file size limitations, the `.pbix` file is hosted externally:
 
 👉 [Download Power BI Dashboard](https://app.powerbi.com/links/V1W3aOMq0z?ctid=c00f2735-2bde-49be-9ecf-45797a22c02d&pbi_source=linkShare)
 
-## 👩‍💼 About the Project
+##  About the Project
 This project is built using domain knowledge from working as a **Branch Post Master**, combining real-world operations with analytics to derive insights.
 
 ---
